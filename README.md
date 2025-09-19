@@ -4,7 +4,7 @@ This repository serves as an overview of all the projects completed during the C
 
 ## Projects
 
-- Project 0: Tic Tac Toe AI
+- Project 0: Maze generator and solver
 - Project 1: ... *(coming soon)*
 
 ## Notes
